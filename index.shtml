@@ -35,7 +35,7 @@
             <img src="images/index/qcode_share.png">
           </div>
           <div class="gift_integral">
-
+            <div></div>
           </div>
         </div>
       </div>
@@ -92,7 +92,7 @@
             <img class="tit_l" src="images/icon/part/news_logo_03.png">
             <span class="tit_b">最新资讯</span>
             <span class="tit_s">INFORMATION</span>
-            <img class="tit_r" src="images/icon/part/more.png">
+            <a href="#"><img class="tit_r" src="images/icon/part/more.png"></a>
           </div>
           <ul class="pic_list">
             <li id="pic_list1">
@@ -124,7 +124,7 @@
         <div class="message_players">
           <div class="tit_size1" id="size2">
             <span class="tit_c">TPT-S选手榜</span>
-            <img class="tit_r" src="images/icon/part/more.png">
+            <a href="#"><img class="tit_r" src="images/icon/part/more.png"></a>
           </div>
           <ul class="players_list">
             <li>
