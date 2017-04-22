@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-Hans-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" type="text/css" href="./css/base/common.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/reset.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/icon.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/button.css">
+  <link rel="stylesheet" type="text/css" href="./css/main/detail.css">
+  <link rel="stylesheet" type="text/css" href="./css/main/match.css">
+  <!--#include virtual="./include/common.shtml" -->
+  <title>赛事Q&A</title>
+</head>
+<body>
+  <!--#include virtual="./include/nav.shtml" -->
+  <div class="index_wrap">
+    <div class="index_con1">
+      <div class="detail">
+        <h2 class="clearfix">
+          <div class="txt">
+            <span class="t1">赛事Q&A</span>
+          </div>
+        </h2>
+        <div class="match">
+          <h3>赛事详情</h3>
+          <dl>
+            <dt>1.TPTS简介</dt>
+            <dd>腾讯扑克锦标赛系列赛（Tencent Poker Tournament Series，简称TPTS）是TPT总决赛的城市系列巡回赛，是由腾讯游戏和腾讯棋牌主办，一项国内独创通票制专业竞技扑克运动赛事。TPTS系列赛事不设现场报名，参赛选手均由线上游戏平台《天天德州-腾讯版》内通过公正赛制选拔的优质选手及特邀嘉宾组成。每一位竞技扑克运动爱好者都有机会参与到TPTS系列赛事的报名，通过自身的竞技精神和竞技实力获得最终通往TPTS总决赛资格。所有参赛选手获得的赛事通票，可免费参与TPTS期间举行的非邀请制赛事(同一时刻只允许参加一类比赛)。赛事通票具备实名制，一经验证，不得与其他选手交换，也不得进行任何线下交易。</dd>
+          </dl>
+          <dl>
+            <dt>2.TPTS-青岛站赛事简介</dt>
+            <dd>第一届腾讯扑克锦标赛系列赛，在青岛举办。线上选拔时间为5月-7月，线下总决赛将在7月举办。总决赛限200名选手参加，总奖励200万（人民币）+50亿（游戏金币）。</dd>
+          </dl>
+          <dl>
+            <dt>3.如何参加TPTS？</dt>
+            <dd>TPTS系列赛事不设现场报名，《天天德州-腾讯版》线上选拔赛是TPTS选手选拔的官方唯一途径。手机下载《天天德州-腾讯版》，参与TPTS系列选拔赛赢取TPTS总决赛线下资格。</dd>
+          </dl>
+          <dl>
+            <dt>4.TPTS-青岛站的赛制是？</dt>
+            <dd>TPTS使用独创的通票制模式，获得TPTS-青岛站总决赛资格的选手可免费参加比赛期间的任意赛事，包含1场主赛和4场附加赛。详细赛事安排，请参考赛事手册。</dd>
+          </dl>
+          <dl>
+            <dt>5.什么是通票制？</dt>
+            <dd>通过《天天德州-腾讯版》线上选拔赛获得TPTS总决赛资格并激活，即可免费参与TPTS总决赛所有赛事（包括主赛和附加赛），不需要额外获取参赛资格。</dd>
+          </dl>
+          <dl>
+            <dt>6.TPTS-青岛站特色</dt>
+            <dd>
+              <ul>
+                <li>（1）极致专业---细腻赛制结构</li>
+                <li>（2）至尚荣耀---首枚TPTS冠军戒指</li>
+                <li>（3）完美赛程---1主赛+4附加赛（免费通票）</li>
+                <li>（4）特别邀请赛---媒体专属赛。德州媒体人的专属赛事（不包含在通票内）</li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt>7.TPTS-青岛站媒体专属赛简介</dt>
+            <dd>
+              <p>本届TPTS-青岛站特别邀请赛：媒体专属赛。是TPTS为德州媒体人开设的一场专项赛事，媒体受邀参赛，不包含在通票内。</p>
+              <p>奖励：20万</p>
+              <p>参赛人数：54-63人</p>
+            </dd>
+          </dl>
+          <dl>
+            <dt>8.如何参与媒体专属赛</dt>
+            <dd>
+              TPTS媒体专属赛，是TPTS为德州媒体人开设的一场专项赛事，由合作媒体渠道自主选拔参赛选手，可通过TPTS合作媒体渠道了解详细参赛途径。TPTS总决赛资格不包含媒体赛。
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="./js/main/contact.js">
+
+  </script>
+</body>
+</html>

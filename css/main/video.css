@@ -1,0 +1,10 @@
+.video-wrap .video-area {
+  width: 1000px;
+  height: 472px;
+  border: 1px solid red;
+  margin: 31px 0 64px 0;
+}
+
+.video-wrap .videolist {
+  margin-bottom: 56px;
+}

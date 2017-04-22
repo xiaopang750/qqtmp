@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-Hans-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" type="text/css" href="./css/base/common.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/reset.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/icon.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/button.css">
+  <link rel="stylesheet" type="text/css" href="./css/main/detail.css">
+  <link rel="stylesheet" type="text/css" href="./css/main/news.css">
+  <!--#include virtual="./include/common.shtml" -->
+  <title>新闻详情</title>
+</head>
+<body>
+  <!--#include virtual="./include/nav.shtml" -->
+  <div class="index_wrap">
+    <div class="index_con1">
+      <div class="detail">
+        <div class="news_detail">
+          <h3 class="news-title">
+            2016腾讯棋牌盛典重磅来袭，扑克比赛迎来三大历史性变革
+          </h3>
+          <p class="news-time">
+            2017-04-12
+          </p>
+          <div class="content">
+            内容内容内容内
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="./js/main/contact.js">
+
+  </script>
+</body>
+</html>

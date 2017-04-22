@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-Hans-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" type="text/css" href="./css/base/common.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/reset.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/icon.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/button.css">
+  <link rel="stylesheet" type="text/css" href="./css/main/detail.css">
+  <link rel="stylesheet" type="text/css" href="./css/main/contact.css">
+  <!--#include virtual="./include/common.shtml" -->
+  <title>联系我们</title>
+</head>
+<body>
+  <!--#include virtual="./include/nav.shtml" -->
+  <div class="index_wrap">
+    <div class="index_con1">
+      <div class="detail">
+        <h2 class="clearfix">
+          <div class="txt">
+            <span class="t1">联系我们</span>
+          </div>
+        </h2>
+        <div class="contact">
+          <h3>请留下您对天天德州游戏和赛事的宝贵建议，天天德州运营组将随机抽取好的建议进行奖励！</h3>
+          <textarea placeholder="请输入您的建议..."></textarea>
+          <div class="form">
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td width="122">电话号码</td>
+                <td>
+                  <input type="text">
+                </td>
+                <td width="93">游戏ID</td>
+                <td>
+                  <input type="text">
+                </td>
+                <td>
+                  <span class="icon icon-question"></span>
+                </td>
+              </tr>
+              <tr>
+                <td>平台</td>
+                <td>
+                  <input type="text">
+                </td>
+                <td>频道</td>
+                <td>
+                  <input type="text">
+                </td>
+              </tr>
+            </table>
+            <div class="btnarea">
+              <a href="javascript:;" onfocus="this.blur()" class="btn btn-submit">提交</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="./js/main/contact.js">
+
+  </script>
+</body>
+</html>

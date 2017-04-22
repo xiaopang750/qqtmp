@@ -1,0 +1,36 @@
+.news .newsw_list {
+  padding: 12px 0 44px 0;
+}
+
+.news .btnarea {
+  padding-bottom: 90px;
+}
+
+.news .btn {
+  color: #cbb4d3;
+  line-height: 23px;
+}
+
+.news .btn.prev {
+  margin-right: 40px;
+}
+
+.news_detail .news-title {
+  font-size: 26px;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.news_detail .news-time {
+  font-size: 14px;
+  color: #cbb4d3;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.news_detail .content {
+  font-size: 16px;
+  color: #fefefe;
+  word-break: break-all;
+}
