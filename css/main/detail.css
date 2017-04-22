@@ -1,0 +1,49 @@
+.detail {
+  color: #fcedd7;
+  padding: 60px 0 100px 0;
+}
+
+.detail h2 {
+  position: relative;
+}
+
+.detail h2 .icon-more {
+  position: absolute;
+  bottom: 10px;
+  right: 0;
+  margin-right: 0!important;
+}
+
+.detail h2 .icon {
+  margin-right: 20px;
+}
+
+.detail .btnarea {
+  text-align: center;
+}
+
+.detail h2 .txt {
+  margin-top: 11px;
+  float: left;
+}
+
+.detail h2 .t2 {
+  font-size: 20px;
+  margin-top: 7px;
+}
+
+.detail h2 .t3 {
+  font-size: 14px;
+  color: #353b5d;
+  margin: 15px 0 0 12px;
+}
+
+.detail h2 span {
+  float: left;
+}
+
+.detail h2 {
+  font-size: 30px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #ead1a0;
+}

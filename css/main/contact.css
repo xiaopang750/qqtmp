@@ -1,0 +1,53 @@
+.contact h3 {
+  font-size: 16px;
+  padding: 17px 0 29px 0;
+}
+
+.contact textarea {
+  color: #fcedd7;
+  width: 960px;
+  height: 242px;
+  border: 1px solid #cbb4d3;
+  padding: 16px 19px 0;
+  background: transparent;
+  outline: none;
+  overflow: hidden;
+}
+
+.contact .form {
+  font-size: 16px;
+  padding-top: 37px;
+}
+
+.contact .form .icon {
+  margin-left: 9px;
+}
+
+.contact .form input {
+  color: #fcedd7;
+  width: 290px;
+  height: 34px;
+  border: 1px solid #cbb4d3;
+  background: #1a2467;
+  padding: 2px 5px;
+  margin-left : 18px;
+}
+
+.contact .form table {
+  margin-bottom: 49px;
+}
+
+.contact .form table td {
+  text-align: right;
+  padding-bottom: 35px;
+}
+
+.contact .form table tr {
+  margin-bottom: 35px;
+}
+
+.contact .btn-submit {
+  color: #111f4d;
+  font-size: 22px;
+  line-height: 49px;
+}

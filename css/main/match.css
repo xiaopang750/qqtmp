@@ -1,0 +1,20 @@
+.match h3 {
+  font-size: 22px;
+  padding-top: 32px;
+}
+
+.match dl {
+  font-size: 14px;
+  border-bottom: 1px dashed #3c2d63;
+  padding: 19px 0;
+}
+
+.match dl dt {
+  color: #fff;
+  padding-bottom: 19px;
+}
+
+.match dl dd {
+  color: #cbb4d3;
+  line-height: 23px;
+}

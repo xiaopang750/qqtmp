@@ -1,0 +1,41 @@
+.icon {
+  background-image: url('../../images/icon/index.png');
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.icon-news {
+  width: 39px;
+  height: 41px;
+  background-position: -185px 0;
+}
+
+.icon-person {
+  width: 39px;
+  height: 48px;
+  background-position: -113px 0;
+}
+
+.icon-movie {
+  width: 44px;
+  height: 45px;
+  background-position: 0 0;
+}
+
+.icon-more {
+  width: 78px;
+  height: 23px;
+  background-position: 0 -83px;
+}
+
+.icon-tip {
+  width: 13px;
+  height: 11px;
+  background-position: -117px -83px;
+}
+
+.icon-question {
+  width: 17px;
+  height: 17px;
+  background-position: -180px -83px;
+}

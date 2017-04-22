@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hans-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" type="text/css" href="./css/base/common.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/reset.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/icon.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/button.css">
+  <link rel="stylesheet" type="text/css" href="./css/main/detail.css">
+  <link rel="stylesheet" type="text/css" href="./css/main/video.css">
+  <!--#include virtual="./include/common.shtml" -->
+  <title>视频中心</title>
+</head>
+<body>
+  <!--#include virtual="./include/nav.shtml" -->
+  <div class="index_wrap">
+    <div class="index_con1">
+      <div class="detail">
+        <h2 class="clearfix">
+          <span class="icon icon-movie"></span>
+          <div class="txt">
+            <span class="t1">VIDEO/</span>
+            <span class="t2">视频</span>
+          </div>
+        </h2>
+        <div class="video-wrap">
+          <div class="video-area">
+
+          </div>
+          <h2 class="clearfix">
+            <div class="txt">
+              <span class="t1">2016TPT精彩视频</span>
+            </div>
+            <a href="#" class="icon icon-more"></a>
+          </h2>
+          <div class="videolist">
+            <ul class="clearfix">
+              <li>
+                <a href="#">
+                  <img src="https://placeholdit.imgix.net/~text?txtsize=12&txt=20%25C3%259710&w=233&h=130">
+                </a>
+                <div class="videolisttit">第一届城际赛宣传片</div>
+              </li>
+            </ul>
+          </div>
+          <h2 class="clearfix">
+            <div class="txt">
+              <span class="t1">2015TPT精彩视频</span>
+            </div>
+            <a href="#" class="icon icon-more"></a>
+          </h2>
+          <div class="videolist">
+            <ul class="clearfix">
+              <li>
+                <a href="#">
+                  <img src="https://placeholdit.imgix.net/~text?txtsize=12&txt=20%25C3%259710&w=233&h=130">
+                </a>
+                <div class="videolisttit">第一届城际赛宣传片</div>
+              </li>
+            </ul>
+          </div>
+          <h2 class="clearfix">
+            <div class="txt">
+              <span class="t1">2014TPT精彩视频</span>
+            </div>
+            <a href="#" class="icon icon-more"></a>
+          </h2>
+          <div class="videolist">
+            <ul class="clearfix">
+              <li>
+                <a href="#">
+                  <img src="https://placeholdit.imgix.net/~text?txtsize=12&txt=20%25C3%259710&w=233&h=130">
+                </a>
+                <div class="videolisttit">第一届城际赛宣传片</div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="./js/main/contact.js">
+
+  </script>
+</body>
+</html>
