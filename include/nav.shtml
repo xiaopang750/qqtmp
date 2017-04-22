@@ -4,51 +4,60 @@
     <img id="logo" src="./images/logo/logo.png">
     <ul class="head_nav">
       <li id="head_nav_li1">
-        <a class="head_nav_a" href="#">
+        <a class="head_nav_a" href="#" data-name="index">
+          <div class="nav_icon"></div>
           <p class="head_nav_p1">首页</p>
           <p class="head_nav_p2">HOME</p>
           <i></i>
         </a>
       </li>
       <li class="head_nav_li2">
-        <a class="head_nav_a" href="#">
+        <a class="head_nav_a" href="#" data-name="news">
+          <div class="nav_icon"></div>
           <p class="head_nav_p1">新闻资讯</p>
           <p class="head_nav_p2">NEWS</p>
           <i></i>
         </a>
       </li>
       <li class="head_nav_li3">
-        <a class="head_nav_a" href="#">
+        <a class="head_nav_a" href="#" data-name="events">
+          <div class="nav_icon"></div>
           <p class="head_nav_p1">赛事详情</p>
           <p class="head_nav_p2">EVENTS</p>
           <i></i>
         </a>
       </li>
       <li class="head_nav_li4">
-        <a class="head_nav_a" href="#">
+        <a class="head_nav_a" href="#" data-name="match">
+          <div class="nav_icon"></div>
           <p class="head_nav_p1">赛事Q&A</p>
           <p class="head_nav_p2">Q&A</p>
           <i></i>
         </a>
       </li>
       <li class="head_nav_li5">
+        <a class="head_nav_a" href="#" data-name="video">
+          <div class="nav_icon"></div>
           <p class="head_nav_p1">视频中心</p>
           <p class="head_nav_p2">VIDEO</p>
           <i></i>
         </a>
       </li>
       <li class="head_nav_li6">
+        <a class="head_nav_a" href="#" data-name="review">
+          <div class="nav_icon"></div>
           <p class="head_nav_p1">精彩回顾</p>
           <p class="head_nav_p2">REVIEW</p>
           <i></i>
         </a>
       </li>
       <li class="head_nav_li7">
-        <a class="head_nav_a" href="#">
+        <a class="head_nav_a" href="#" data-name="contect">
+          <div class="nav_icon"></div>
           <p class="head_nav_p1">联系我们</p>
           <p class="head_nav_p2">CONTACT</p>
         </a>
       </li>
-    </ul> 
+    </ul>
   </div>
 </div>
