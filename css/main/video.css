@@ -3,6 +3,16 @@
   height: 472px;
   border: 1px solid red;
   margin: 31px 0 64px 0;
+  position: relative;
+}
+
+.video-wrap .btn-play {
+  position: absolute;
+  margin: -65px 0 0 -65px;
+  left: 50%;
+  top: 50%;
+  cursor: pointer;
+  z-index: 999;
 }
 
 .video-wrap .videolist {

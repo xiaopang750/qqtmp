@@ -46,8 +46,38 @@
   margin-bottom: 35px;
 }
 
+.contact .form select {
+  width: 300px;
+  height: 38px;
+  outline: none;
+}
+
 .contact .btn-submit {
   color: #111f4d;
   font-size: 22px;
   line-height: 49px;
+}
+
+.contact .select2-container--default .select2-selection--single {
+  background-color: #1a2467;
+}
+
+.contact .select2-container--default .select2-selection--single .select2-selection__rendered {
+  color: #fcedd7;
+}
+
+.contact .select2-container .select2-selection--single {
+  height: 38px;
+}
+
+.contact .select2-container--default .select2-selection--single .select2-selection__rendered {
+  line-height: 38px;
+}
+
+.contact .select2-container--default .select2-selection--single .select2-selection__arrow {
+  top: 5px;
+}
+
+.contact .select2-container--default .select2-selection--single {
+  border-radius: 0px;
 }

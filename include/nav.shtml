@@ -4,7 +4,7 @@
     <img id="logo" src="./images/logo/logo.png">
     <ul class="head_nav">
       <li id="head_nav_li1">
-        <a class="head_nav_a" href="#" data-name="index">
+        <a class="head_nav_a" href="./index.sthml" data-name="index">
           <div class="nav_icon"></div>
           <p class="head_nav_p1">首页</p>
           <p class="head_nav_p2">HOME</p>
@@ -12,7 +12,7 @@
         </a>
       </li>
       <li class="head_nav_li2">
-        <a class="head_nav_a" href="#" data-name="news">
+        <a class="head_nav_a" href="./news.shtml" data-name="news">
           <div class="nav_icon"></div>
           <p class="head_nav_p1">新闻资讯</p>
           <p class="head_nav_p2">NEWS</p>
@@ -28,7 +28,7 @@
         </a>
       </li>
       <li class="head_nav_li4">
-        <a class="head_nav_a" href="#" data-name="match">
+        <a class="head_nav_a" href="./match.sthtml" data-name="match">
           <div class="nav_icon"></div>
           <p class="head_nav_p1">赛事Q&A</p>
           <p class="head_nav_p2">Q&A</p>
@@ -36,7 +36,7 @@
         </a>
       </li>
       <li class="head_nav_li5">
-        <a class="head_nav_a" href="#" data-name="video">
+        <a class="head_nav_a" href="./video.shtml" data-name="video">
           <div class="nav_icon"></div>
           <p class="head_nav_p1">视频中心</p>
           <p class="head_nav_p2">VIDEO</p>
@@ -52,7 +52,7 @@
         </a>
       </li>
       <li class="head_nav_li7">
-        <a class="head_nav_a" href="#" data-name="contect">
+        <a class="head_nav_a" href="./contact.shtml" data-name="contect">
           <div class="nav_icon"></div>
           <p class="head_nav_p1">联系我们</p>
           <p class="head_nav_p2">CONTACT</p>

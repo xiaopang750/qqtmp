@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" type="text/css" href="./css/base/common.css">
   <link rel="stylesheet" type="text/css" href="./css/base/reset.css">
-  <script type="text/javascript" src="./js/jquery-1.8.3.min.js"></script>
-    <script type="text/javascript" src="./js/nav.js"></script>
+  <link rel="stylesheet" type="text/css" href="./css/base/common.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/icon.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/button.css">
   <!--#include virtual="./include/common.shtml" -->
   <title>Document</title>
 </head>
@@ -46,7 +46,7 @@
             2017 TPT-S 第一届城际赛
           </div>
           <div class="match_con">
-            <div class="match_radio"></div>
+            <div class="match_radio" id="match_radio"></div>
           </div>
         </div>
         <div class="match_r">
@@ -264,5 +264,13 @@
   <div class="suspend">
     <img src="images/index/side_qcode.jpg">
   </div>
+  <script type="text/javascript" src="./js/lib/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" src="./js/nav.js"></script>
+  <script src="http://ossweb-img.qq.com/images/js/swfobject.js" ></script>
+  <script>
+    // 视频播放
+    var el = document.getElementById("match_radio");
+    swfobject.embedSWF("test.swf", el, 675, 432, "9.0.0");
+  </script>
 </body>
 </html>
