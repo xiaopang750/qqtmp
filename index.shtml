@@ -4,13 +4,123 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <!--#include virtual="./common.shtml" -->
+  <link rel="stylesheet" type="text/css" href="./css/base/common.css">
+  <link rel="stylesheet" type="text/css" href="./css/base/reset.css">
+  <!--#include virtual="./include/common.shtml" -->
   <title>Document</title>
 </head>
 <body>
-  <div class="11">
-
+  <!--#include virtual="./include/nav.shtml" -->
+  <div class="index_wrap">
+    <div class="index_con1">
+      <img class="con_adv" src="images/index/index_head_bg.png">
+      <div class="index_status">
+        <div class="status_wrap">
+          目前还剩<span>200</span>个预约资格
+        </div>
+        <img class="index_bar" src="images/index/part/index_bar_coin.png">
+        <img class="index_arc" src="images/index/part/index_head_coin_corner.png">
+      </div>
+      <div class="index_gift">
+        <div class="match_tit">
+          <i></i>
+          全民分享拿礼包
+        </div>
+        <div class="gift_con">
+          <div class="gift_code">
+            <img src="images/index/qcode_share.png">
+          </div>
+          <div class="gift_ integral"></div>
+        </div>
+      </div>
+      <div class="index_match">
+        <div class="match_l">
+          <div class="index_tit">
+            <i></i>
+            2017 TPT-S 第一届城际赛
+          </div>
+          <div class="match_con">
+            <div class="match_radio"></div>
+          </div>
+        </div>
+        <div class="match_r">
+          <div class="match_tit">
+            <i></i>
+            赛事Q&A
+            <div class="match_more"><a href="#"></a></div>
+          </div>
+          <div class="match_list">
+            <ul>
+              <li class="list_tit1">
+                <a href="#">
+                  <span>赛事详情</span>
+                </a>
+              </li>
+              <li class="list_tit2">
+                <a href="#">
+                  <span>线上选拔</span>
+                </a>
+              </li>
+              <li class="list_tit3">
+                <a href="#">
+                  <span>线下决赛</span>
+                </a>
+              </li>
+              <li class="list_tit4">
+                <a href="#">
+                  <span>酒店机票</span>
+                </a>
+              </li>
+              <li class="list_tit5">
+                <a href="#">
+                  <span>联系我们</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="index_message">
+        <div class="message_news">
+          <div class="tit_size1">
+            <img class="tit_l" src="images/icon/part/news_logo_03.png">
+            <span class="tit_b">最新资讯</span>
+            <span class="tit_s">INFORMATION</span>
+            <img class="tit_r" src="images/icon/part/more.png">
+          </div>
+          <ul class="pic_list">
+            <li id="pic_list1"><img src="https://placeholdit.imgix.net/~text?txtsize=12&txt=20%25C3%259710&w=210&h=125"></li>
+            <li><img src="https://placeholdit.imgix.net/~text?txtsize=12&txt=20%25C3%259710&w=210&h=125"></li>
+            <li><img src="https://placeholdit.imgix.net/~text?txtsize=12&txt=20%25C3%259710&w=210&h=125"></li>
+          </ul>
+          <ul class="newsw_list">
+            <li><a class="newsw_listw">TPTO实物赛热火来袭 天天德州助你换新机</a><a class="new_time">2017-04-12</a></li>
+            <li><a class="newsw_listw">TPTO实物赛热火来袭 天天德州助你换新机</a><a class="new_time">2017-04-12</a></li>
+            <li><a class="newsw_listw">TPTO实物赛热火来袭 天天德州助你换新机</a><a class="new_time">2017-04-12</a></li>
+            <li><a class="newsw_listw">TPTO实物赛热火来袭 天天德州助你换新机</a><a class="new_time">2017-04-12</a></li>
+            <li><a class="newsw_listw">TPTO实物赛热火来袭 天天德州助你换新机</a><a class="new_time">2017-04-12</a></li>
+            <li><a class="newsw_listw">TPTO实物赛热火来袭 天天德州助你换新机</a><a class="new_time">2017-04-12</a></li>
+            <li><a class="newsw_listw">TPTO实物赛热火来袭 天天德州助你换新机</a><a class="new_time">2017-04-12</a></li>
+          </ul>
+        </div>
+        <div class="message_players">
+          <div class="tit_size1" id="size2">
+            <span class="tit_c">TPT-S选手榜</span>
+            <img class="tit_r" src="images/icon/part/more.png">
+          </div>
+          <ul class="players_list">
+            <li>
+              <div class="img_wrap"></div>
+              <div class="players_info">
+                <div class="players_name">**亮</div>
+                <div class="players_num">编号：TPT2016500</div>
+              </div>
+              <div class="playwrap_r"></div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </div>
-  <!--#include virtual="./nav.shtml" -->
 </body>
 </html>
